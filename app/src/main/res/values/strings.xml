@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EllloEnglish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome Elllo English</string>
+    <string name="next">Next-></string>
+    <string name="name_item_home">Name</string>
+</resources>
